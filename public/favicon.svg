@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="18" fill="#0a1426"/>
+  <path d="M32 10 54 50H10L32 10Z" fill="none" stroke="#78d7cd" stroke-linejoin="round" stroke-width="3"/>
+  <text x="32" y="41" fill="#f5c850" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">IP</text>
+</svg>
